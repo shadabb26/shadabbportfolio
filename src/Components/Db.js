@@ -22,6 +22,7 @@ export default function Db() {
               src=".\psql.png"
               className="card-img-top"
               style={{ height: "250px" }}
+              alt=""
             />
             <div className="card-body">
               <h5 style={{ color: "darkblue" }} className="card-title">

@@ -22,12 +22,7 @@ function App() {
       </div>
       
      </div>
-     {/* <div className="container">
-      <h3 style={{fontFamily:'Poppins'}}>Here are my Skills</h3>
-     </div>
-     <div className="container">
-      <hr></hr>
-     </div> */}
+    
      <Maincontent/>
      
      

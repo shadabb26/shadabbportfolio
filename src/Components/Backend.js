@@ -22,6 +22,7 @@ export default function Backend() {
               src=".\ex.png"
               className="card-img-top"
               style={{ height: "250px" }}
+              alt=""
             />
             <div className="card-body">
               <h5 style={{ color: "black" }} className="card-title">
@@ -44,10 +45,9 @@ export default function Backend() {
 
         <div className="col-lg-3 col-md-6 col-sm-12">
           <div className="card my-2">
-            <img src=".\springboot.png" className="card-img-top" alt="..." />
+          <img src=".\springboot.png" className="card-img-top" alt="" />
             <div className="card-body">
               <h5 className="card-title" style={{ color: "green" }}>
-                {" "}
                 Java Spring Boot
               </h5>
             </div>

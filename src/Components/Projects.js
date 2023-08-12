@@ -15,7 +15,7 @@ export default function Projects() {
               <a
                 href="https://github.com/shadabb26/homeservices"
                 target="_blank"
-                class="btn btn-dark"
+                className="btn btn-dark"
               >
                 View Code
               </a>
@@ -37,7 +37,7 @@ export default function Projects() {
               <a
                 href="https://github.com/shadabb26/26news"
                 target="_blank"
-                class="btn btn-dark"
+                className="btn btn-dark"
               >
                 View Code
               </a>
@@ -55,7 +55,7 @@ export default function Projects() {
               <a
                 href="https://github.com/shadabb26/textutils"
                 target="_blank"
-                class="btn btn-dark"
+                className="btn btn-dark"
               >
                 View Code
               </a>
@@ -73,7 +73,7 @@ export default function Projects() {
               <a
                 href="https://github.com/shadabb26/weatherapp"
                 target="_blank"
-                class="btn btn-dark"
+                className="btn btn-dark"
               >
                 View Code
               </a>
