@@ -33,6 +33,7 @@ export default function Frontend() {
               src=".\boot.png"
               className="card-img-top"
               style={{ height: "250px" }}
+              alt=""
             />
             <div className="card-body">
               <h5 style={{ color: "purple" }} className="card-title">

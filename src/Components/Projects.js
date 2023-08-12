@@ -16,6 +16,7 @@ export default function Projects() {
                 href="https://github.com/shadabb26/homeservices"
                 target="_blank"
                 className="btn btn-dark"
+                rel="noreferrer"
               >
                 View Code
               </a>
@@ -29,6 +30,7 @@ export default function Projects() {
               src=".\news.png"
               className="card-img-top"
               style={{ height: "250px" }}
+              alt=""
             />
             <div className="card-body">
               <h5 style={{ color: "black" }} className="card-title">
@@ -38,6 +40,7 @@ export default function Projects() {
                 href="https://github.com/shadabb26/26news"
                 target="_blank"
                 className="btn btn-dark"
+                rel="noreferrer"
               >
                 View Code
               </a>
@@ -56,6 +59,7 @@ export default function Projects() {
                 href="https://github.com/shadabb26/textutils"
                 target="_blank"
                 className="btn btn-dark"
+                rel="noreferrer"
               >
                 View Code
               </a>
@@ -74,6 +78,7 @@ export default function Projects() {
                 href="https://github.com/shadabb26/weatherapp"
                 target="_blank"
                 className="btn btn-dark"
+                rel="noreferrer"
               >
                 View Code
               </a>
