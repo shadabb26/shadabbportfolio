@@ -1,23 +1,37 @@
-import logo from './logo.svg';
 import './App.css';
+import React from 'react'
+import Navbar from './Components/Navbar.js'
+import Section from './Components/Section.js';
+import Image from './Components/Image';
+
+import Maincontent from './Components/Maincontent';
+
+
+
 
 function App() {
+  
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+     <Navbar/>
+     <Image/>
+     <Section/>
+     <div className="container my-2">
+      <div className="container">
+      <hr></hr>
+      </div>
+      
+     </div>
+     {/* <div className="container">
+      <h3 style={{fontFamily:'Poppins'}}>Here are my Skills</h3>
+     </div>
+     <div className="container">
+      <hr></hr>
+     </div> */}
+     <Maincontent/>
+     
+     
+     
     </div>
   );
 }
