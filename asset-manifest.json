@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/shadabbportfolio/static/css/main.ddc5d591.css",
-    "main.js": "/shadabbportfolio/static/js/main.a57e626b.js",
+    "main.js": "/shadabbportfolio/static/js/main.4f929162.js",
     "static/js/787.1ed0c42c.chunk.js": "/shadabbportfolio/static/js/787.1ed0c42c.chunk.js",
     "index.html": "/shadabbportfolio/index.html",
     "main.ddc5d591.css.map": "/shadabbportfolio/static/css/main.ddc5d591.css.map",
-    "main.a57e626b.js.map": "/shadabbportfolio/static/js/main.a57e626b.js.map",
+    "main.4f929162.js.map": "/shadabbportfolio/static/js/main.4f929162.js.map",
     "787.1ed0c42c.chunk.js.map": "/shadabbportfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ddc5d591.css",
-    "static/js/main.a57e626b.js"
+    "static/js/main.4f929162.js"
   ]
 }
