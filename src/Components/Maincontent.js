@@ -13,11 +13,11 @@ export default function Maincontent() {
       <div className="container">
         <div className="container">
           <Projects />
-          <Language />
+          {/* <Language />
           <Frontend />
           <Backend />
           <Db />
-          <Tools />
+          <Tools /> */}
 
           <Socials />
         </div>
